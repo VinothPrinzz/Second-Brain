@@ -50,7 +50,6 @@ Second Brain is a personal knowledge management system designed to help you orga
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Styling**: Tailwind CSS
-- **Deployment**: [Add deployment details if applicable, e.g., Vercel/Heroku/AWS]
 
 ---
 
